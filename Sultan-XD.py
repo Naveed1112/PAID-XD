@@ -1,0 +1,2 @@
+import sultan
+sultan.Subscription()
